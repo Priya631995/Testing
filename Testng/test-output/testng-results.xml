@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="9" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="278" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:21 IST">
+    <groups>
+    </groups>
+    <test name="Personal Loan" duration-ms="146" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:20 IST">
+      <class name="Testng1.Test2">
+        <test-method status="PASS" signature="ploan()[pri:0, instance:Testng1.Test2@369f73a2]" name="ploan" duration-ms="4" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+      </class> <!-- Testng1.Test2 -->
+      <class name="Testng1.Test4">
+        <test-method status="PASS" signature="MobileloginHomeLoan()[pri:0, instance:Testng1.Test4@1f28c152]" name="MobileloginHomeLoan" duration-ms="5" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileloginHomeLoan -->
+        <test-method status="PASS" signature="RestAPIloginHomeLoan()[pri:0, instance:Testng1.Test4@1f28c152]" name="RestAPIloginHomeLoan" duration-ms="4" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIloginHomeLoan -->
+        <test-method status="PASS" signature="WebloginHomeLoan()[pri:0, instance:Testng1.Test4@1f28c152]" name="WebloginHomeLoan" duration-ms="3" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginHomeLoan -->
+      </class> <!-- Testng1.Test4 -->
+      <class name="Testng1.Test1">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:Testng1.Test1@731a74c]" name="Demo" duration-ms="22" started-at="2020-04-30T02:38:20 IST" finished-at="2020-04-30T02:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- Testng1.Test1 -->
+    </test> <!-- Personal Loan -->
+    <test name="Car Loan" duration-ms="9" started-at="2020-04-30T02:38:21 IST" finished-at="2020-04-30T02:38:21 IST">
+      <class name="Testng1.Test3">
+        <test-method status="PASS" signature="RestAPIloginCarLoan()[pri:0, instance:Testng1.Test3@22a67b4]" name="RestAPIloginCarLoan" duration-ms="1" started-at="2020-04-30T02:38:21 IST" finished-at="2020-04-30T02:38:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIloginCarLoan -->
+        <test-method status="PASS" signature="WebloginCarLoan()[pri:0, instance:Testng1.Test3@22a67b4]" name="WebloginCarLoan" duration-ms="1" started-at="2020-04-30T02:38:21 IST" finished-at="2020-04-30T02:38:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginCarLoan -->
+      </class> <!-- Testng1.Test3 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
